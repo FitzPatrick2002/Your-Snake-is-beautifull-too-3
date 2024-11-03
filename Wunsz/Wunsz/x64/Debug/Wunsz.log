@@ -1,0 +1,50 @@
+﻿  Main.cpp
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(66,23): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(67,23): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(72,57): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(72,57): warning C4244:         with
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(72,57): warning C4244:         [
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(72,57): warning C4244:             T=float
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(72,57): warning C4244:         ]
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(72,43): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(72,43): warning C4244:         with
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(72,43): warning C4244:         [
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(72,43): warning C4244:             T=float
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(72,43): warning C4244:         ]
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(87,49): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(87,31): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(93,49): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(93,30): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(133,23): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(134,23): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(216,23): warning C4244: "inicjowanie": konwersja z "const T" do "int", możliwa utrata danych
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(216,23): warning C4244:         with
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(216,23): warning C4244:         [
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(216,23): warning C4244:             T=float
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(216,23): warning C4244:         ]
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(217,23): warning C4244: "inicjowanie": konwersja z "const T" do "int", możliwa utrata danych
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(217,23): warning C4244:         with
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(217,23): warning C4244:         [
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(217,23): warning C4244:             T=float
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(217,23): warning C4244:         ]
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(273,28): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(274,28): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(291,57): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(291,50): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(359,23): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(360,24): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(383,17): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(420,30): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(454,20): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(456,53): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(456,43): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(476,64): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(476,52): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(479,62): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(479,50): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(559,55): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(566,23): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(567,23): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(577,15): warning C4244: "argument": konwersja z "float" do "DWORD", możliwa utrata danych
+C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\Wunsz\Main.cpp(41,1): warning C4715: "TextureManager::addFromFile”: niewszystkie ścieżki kodu zwracają wartość
+  Wunsz.vcxproj -> C:\Users\milos\OneDrive\Pulpit\Temp_C++Project\Code\Wunsz\x64\Debug\Wunsz.exe
